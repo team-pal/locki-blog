@@ -1,63 +1,21 @@
 ---
 layout: post
-title: Why we decided to release Locki
+title: Sample post
 ---
+Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
+* Consectetur adipiscing elit
+* Donec a diam lectus
+* Sed sit amet ipsum mauris
 
-Last Summer in San Francisco was not the coldest our CEO and Founder Ryo Chikizawa has experienced, but it was definitely the most memorable he will ever recall.
+Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
 
-As a web developer with rich previous experience in a large tech corporation DeNA, as well as the global video streaming startup Viki (which was sold to Rakuten in 2013), Ryo spent an immense amount of time learning about newest best software needed for his daily job. Starting his career in Japan, he spent hours reading Japanese and English tech documentation, a necessary step that could be simplified, if the right tools were in place.
+Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
 
-Already at that time he was seeking a solution that would accelerate his learning and save time for executable adventures. And as he joined Viki, Ryo was responsible for creating and managing a crowd-sourcing subtitling translation tool. Spending a vast amount of time tackling the challenges of instant translations and engaging with the community, one thing led to another, and moving to San Francisco made him realize it's now or never: Time to make a change!
+Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
 
-> He decided to take everything he learned and create something he always wanted.
+> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
 
-![San Francisco birds](/img/ggbirds.jpg)
+Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
 
-Multilingual tech background combined with Viki experience led to basic conclusions:
-
-### 3 translation lessons learned
-
-* As the world gets 'smaller', the nuances of languages get bigger
-* There's an abundance of translation tools, but finding an optimal one is a challenge
-* People love quick and easy fixes, but they also value being the part of the solution
-
-That is especially valid for tech documentation. As people choose their software, they jointly create a social group. The product adheres to their needs and wishes, and along the way, the community creates an individual identity and content. With that, terminology gains new semantic levels, and for those who are unfamiliar with the topic, meanings get lost in translation easily. Keeping up-to-date in a rapidly changing tech environment is tough, yet necessary.
-
-In an industry needs a lot of attention to comprehend it's own, dealing with language barriers isn't accommodating. Native English speakers can grasp many concepts faster due to their language privilege, but sometimes they run into a complete barrier trying to access quality software created far away from their home countries.
-
-One thing is certain:
-
-> We could instantly achieve tech excellence, if its content was comprehensive to all.
-
-### 3 translation challenges solved
-
-Scratching own itch, [Locki](https://locki.io/) was created with 3 primary goals:
-
-* Provide a tool that can translate EVERYTHING on the internet instantly
-* Enable EVERYONE to translate and edit online content in real-time
-* Make it simpler, faster, more efficient than ANYTHING available so far
-
-> Moreover, enable easiest updates whenever online content changes.
-
-![Learning new technology](/img/learndocs.jpg)
-
-### Vision: Translate everything on the internet
-
-The reason why we decided to translate everything on the internet was simply factual. As expected, English is dominating the internet, with more than half of all websites providing content in it. Other languages are under-represented, with mainly less than 5% share of the online content:
-
-![Content languages for websites](/img/content_languages_for_webistes.png)
-
-However, merely a quarter of internet users set English as their preferred language:
-
-![Internet users by language](/img/internet_users_by_language.png)
-
-There is clearly a big gap between the provided and desired online languages, and who wouldn't want to bridge it, if localization was simple?! We believe we can and should help worldwide internet users access relevant content in their desired language.
-
-Our mission is making technology understanding faster, better and easier for any tech enthusiast in the world, while promoting collaboration and scalable development.
-
-Everyone should be able to dive straight into new development concepts, regardless their educational and cultural background.
-
-### That's why [Locki](https://locki.io/) is here.
-
-> To localize your online content. And all its updates.
+Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
