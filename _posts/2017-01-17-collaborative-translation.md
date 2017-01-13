@@ -3,7 +3,7 @@ layout: post
 title: Collaborative translation proves that joint efforts bring best results
 ---
 
-Example
+Example example
 
 > Sthsth[link](url).
 
