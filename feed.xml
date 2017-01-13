@@ -5,12 +5,12 @@
     <atom:link href="http://blog.locki.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.locki.io/</link>
     <description></description>
-    <pubDate>Fri, 13 Jan 2017 23:44:23 +0900</pubDate>
+    <pubDate>Fri, 13 Jan 2017 23:51:37 +0900</pubDate>
     
       <item>
         <title>Screwdriver.cd released with bilingual documentation by Locki</title>
-        <link>http://blog.locki.io/2017/01/13/screwdriver.html</link>
-        <guid isPermaLink="true">http://blog.locki.io/2017/01/13/screwdriver.html</guid>
+        <link>http://blog.locki.io/posts/screwdriver.html</link>
+        <guid isPermaLink="true">http://blog.locki.io/posts/screwdriver.html</guid>
         <description>&lt;p&gt;Yahoo’s open-source project &lt;a href=&quot;http://screwdriver.cd/&quot;&gt;Screwdriver&lt;/a&gt;, a Continuous Delivery Build System for Dynamic Infrastructure, was just &lt;a href=&quot;https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous&quot;&gt;released&lt;/a&gt; with all product &lt;a href=&quot;http://docs.screwdriver.cd&quot;&gt;docs available in English and Japanese&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This community-driven tool will simplify deployment pipelines, optimize for trunk development, and make rolling back easier. Screwdriver handles over 25,000+ builds per day and 12,000+ daily git commits as a single shared entrypoint for Yahoo. It supports multiple languages and handles both virtual machine and container-based builds and deployment.&lt;/p&gt;
@@ -36,8 +36,8 @@
     
       <item>
         <title>Why we decided to release Locki</title>
-        <link>http://blog.locki.io/2017/01/10/why-locki.html</link>
-        <guid isPermaLink="true">http://blog.locki.io/2017/01/10/why-locki.html</guid>
+        <link>http://blog.locki.io/posts/why-locki.html</link>
+        <guid isPermaLink="true">http://blog.locki.io/posts/why-locki.html</guid>
         <description>&lt;p&gt;We took lessons learned from translation tech industry and solved 3 primary localization challenges. Driven by our mission: Translate everything on the internet.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -122,8 +122,8 @@
     
       <item>
         <title>Markdown and HTML</title>
-        <link>http://blog.locki.io/2014/11/28/markdown-and-html.html</link>
-        <guid isPermaLink="true">http://blog.locki.io/2014/11/28/markdown-and-html.html</guid>
+        <link>http://blog.locki.io/posts/markdown-and-html.html</link>
+        <guid isPermaLink="true">http://blog.locki.io/posts/markdown-and-html.html</guid>
         <description>&lt;h1 id=&quot;title-blah-blah&quot;&gt;Title blah blah&lt;/h1&gt;
 
 &lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
