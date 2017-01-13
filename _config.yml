@@ -73,3 +73,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
+permalink: /posts/:categories/:title.html
