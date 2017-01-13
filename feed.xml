@@ -5,7 +5,176 @@
     <atom:link href="http://blog.locki.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.locki.io/</link>
     <description></description>
-    <pubDate>Sun, 08 Jan 2017 16:45:09 +0900</pubDate>
+    <pubDate>Fri, 13 Jan 2017 23:44:23 +0900</pubDate>
+    
+      <item>
+        <title>Screwdriver.cd released with bilingual documentation by Locki</title>
+        <link>http://blog.locki.io/2017/01/13/screwdriver.html</link>
+        <guid isPermaLink="true">http://blog.locki.io/2017/01/13/screwdriver.html</guid>
+        <description>&lt;p&gt;Yahoo’s open-source project &lt;a href=&quot;http://screwdriver.cd/&quot;&gt;Screwdriver&lt;/a&gt;, a Continuous Delivery Build System for Dynamic Infrastructure, was just &lt;a href=&quot;https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous&quot;&gt;released&lt;/a&gt; with all product &lt;a href=&quot;http://docs.screwdriver.cd&quot;&gt;docs available in English and Japanese&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This community-driven tool will simplify deployment pipelines, optimize for trunk development, and make rolling back easier. Screwdriver handles over 25,000+ builds per day and 12,000+ daily git commits as a single shared entrypoint for Yahoo. It supports multiple languages and handles both virtual machine and container-based builds and deployment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/screwdriver.png&quot; alt=&quot;Screwdriver UI&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While Yahoo has been filling the headlines with drastic strategic decisions lately, we are very proud to support Yahoo’s open-source project and take the collaborative results to new places in the world.&lt;/p&gt;
+
+&lt;p&gt;Thanks to a supportive community and its collaborative translation integrated with Locki, Screwdriver docs are now available to developers in 2 languages.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/screwdriver_locki.png&quot; alt=&quot;Screwdriver Locki Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;we-wish-screwdrivercd-continuous-success-with-continuous-and-additional-language-support&quot;&gt;We wish Screwdriver.cd continuous success, with continuous and additional language support!&lt;/h3&gt;
+
+&lt;p&gt;More information about the Screwdriver project can be found on the &lt;a href=&quot;http://screwdriver.cd&quot;&gt;official website&lt;/a&gt;, within their &lt;a href=&quot;https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous&quot;&gt;newest blog post&lt;/a&gt;, or under the &lt;a href=&quot;http://sdtimes.com/yahoo-open-sources-continuous-delivery-tool-screwdriver/&quot;&gt;SD Times news&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Do not forget to chek out the &lt;a href=&quot;http://docs.screwdriver.cd&quot;&gt;bilingual docs in English and Japanese&lt;/a&gt; and &lt;a href=&quot;https://locki.io&quot;&gt;integrate Locki for your (open-source) projects&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 13 Jan 2017 00:00:00 +0900</pubDate>
+      </item>
+    
+      <item>
+        <title>Why we decided to release Locki</title>
+        <link>http://blog.locki.io/2017/01/10/why-locki.html</link>
+        <guid isPermaLink="true">http://blog.locki.io/2017/01/10/why-locki.html</guid>
+        <description>&lt;p&gt;We took lessons learned from translation tech industry and solved 3 primary localization challenges. Driven by our mission: Translate everything on the internet.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Last Summer in San Francisco was not the coldest our CEO and Founder &lt;a href=&quot;https://www.linkedin.com/in/ryo-chikazawa-01533749/en&quot;&gt;Ryo Chikizawa&lt;/a&gt; has experienced, but it was definitely the most memorable he will ever recall.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As a web developer with rich previous experience in a large tech corporation DeNA, as well as the global video streaming startup Viki (which was sold to Rakuten in 2013), Ryo spent an immense amount of time learning about newest best software needed for his daily job. Starting his career in Japan, he spent hours reading Japanese and English tech documentation, a necessary step that could be simplified, if the right tools were in place.&lt;/p&gt;
+
+&lt;p&gt;Already at that time he was seeking a solution that would accelerate his learning and save time for executable adventures. And as he joined Viki, Ryo was responsible for creating and managing a crowd-sourcing subtitling translation tool. Spending a vast amount of time tackling the challenges of instant translations and engaging with the community, one thing led to another, and moving to San Francisco made him realize it’s now or never: Time to make a change!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;He decided to take everything he learned and create something he always wanted.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/ggbirds.jpg&quot; alt=&quot;San Francisco birds&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Multilingual tech background combined with Viki experience led to basic conclusions:&lt;/p&gt;
+
+&lt;h3 id=&quot;3-translation-lessons-learned&quot;&gt;3 translation lessons learned&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;As the world gets ‘smaller’, the nuances of languages get bigger&lt;/li&gt;
+  &lt;li&gt;There’s an abundance of translation tools, but finding an optimal one is a challenge&lt;/li&gt;
+  &lt;li&gt;People love quick and easy fixes, but they also value being the part of the solution. Community translation provides added value to all parties involved.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That is especially valid for tech documentation. As people choose their software, they jointly create a social group. The product adheres to their needs and wishes, and along the way, the community creates an individual identity and content. With that, terminology gains new semantic levels, and for those who are unfamiliar with the topic, meanings get lost in translation easily. Keeping up-to-date in a rapidly changing tech environment is tough, yet necessary.&lt;/p&gt;
+
+&lt;p&gt;Community plays a huge role in providing the latest and gratest updates. Collaborative translation allows all team members (product managers, lead engineers, marketing specialists and even product users) to edit and contribute, assuring the highest content accuracy. Whenever a dev team comes up with a new feature, anyone within the community should have an ability to update the documentation immediately and bring it to the large worldwide audience.&lt;/p&gt;
+
+&lt;p&gt;In an industry needs a lot of attention to comprehend it’s own, dealing with language barriers isn’t accommodating. Native English speakers can grasp many concepts faster due to their language privilege, but sometimes they run into a complete barrier trying to access quality software created far away from their home countries.&lt;/p&gt;
+
+&lt;p&gt;One thing is certain:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We could instantly achieve tech excellence, if its content was comprehensive to all.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;3-translation-challenges-solved&quot;&gt;3 translation challenges solved&lt;/h3&gt;
+
+&lt;p&gt;Scratching own itch, &lt;a href=&quot;https://locki.io/&quot;&gt;Locki&lt;/a&gt; was created with 3 primary goals:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Provide a tool that can translate EVERYTHING on the internet instantly&lt;/li&gt;
+  &lt;li&gt;Enable EVERYONE to translate and edit online content in real-time&lt;/li&gt;
+  &lt;li&gt;Make it simpler, faster, more efficient than ANYTHING available so far&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Moreover, enable easiest updates whenever online content changes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/learndocs.jpg&quot; alt=&quot;Learning new technology&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;vision-translate-everything-on-the-internet&quot;&gt;Vision: Translate everything on the internet&lt;/h3&gt;
+
+&lt;p&gt;The reason why we decided to translate everything on the internet was simply factual. As expected, English is dominating the internet, with more than half of all websites providing content in it. Other languages are under-represented, with mainly less than 5% share of the online content:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/content_languages_for_webistes.png&quot; alt=&quot;Content languages for websites&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, merely a quarter of internet users set English as their preferred language:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/internet_users_by_language.png&quot; alt=&quot;Internet users by language&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is clearly a big gap between the provided and desired online languages, and who wouldn’t want to bridge it, if localization was simple?! We believe we can and should help worldwide internet users access relevant content in their desired language.&lt;/p&gt;
+
+&lt;p&gt;Our mission is making technology understanding faster, better and easier for any tech enthusiast in the world, while promoting collaboration and scalable development.&lt;/p&gt;
+
+&lt;p&gt;Everyone should be able to dive straight into new development concepts, regardless their educational and cultural background.&lt;/p&gt;
+
+&lt;h3 id=&quot;thats-why-locki-is-here&quot;&gt;That’s why &lt;a href=&quot;https://locki.io/&quot;&gt;Locki&lt;/a&gt; is here&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To localize your online content. And all its updates.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://locki.io/&quot;&gt;Locki&lt;/a&gt; is still in Beta. While we’re working on bringing the best solution for your online content, feel free to &lt;a href=&quot;https://locki.io/signup&quot;&gt;use it for free&lt;/a&gt; and &lt;a href=&quot;mailto:info@locki.io&quot;&gt;give us your feedback&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Jan 2017 00:00:00 +0900</pubDate>
+      </item>
+    
+      <item>
+        <title>Markdown and HTML</title>
+        <link>http://blog.locki.io/2014/11/28/markdown-and-html.html</link>
+        <guid isPermaLink="true">http://blog.locki.io/2014/11/28/markdown-and-html.html</guid>
+        <description>&lt;h1 id=&quot;title-blah-blah&quot;&gt;Title blah blah&lt;/h1&gt;
+
+&lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
+
+&lt;p&gt;Tables have also been extended from Markdown:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;First Header&lt;/th&gt;
+      &lt;th&gt;Second Header&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Content Cell&lt;/td&gt;
+      &lt;td&gt;Content Cell&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Content Cell&lt;/td&gt;
+      &lt;td&gt;Content Cell&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Here’s an example of an image, which is included using Markdown:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sample_feature_img_2.png&quot; alt=&quot;Geometric pattern with fading gradient&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Rouge by default.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// count to ten&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// count to twenty&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Type Theme uses KaTeX to display maths. Equations such as &lt;script type=&quot;math/tex&quot;&gt;S_n = a \times \frac{1-r^n}{1-r}&lt;/script&gt; can be displayed inline.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, they can be shown on a new line:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;f(x) = \int \frac{2x^2+4x+6}{x-2}&lt;/script&gt;
+</description>
+        <pubDate>Fri, 28 Nov 2014 00:00:00 +0900</pubDate>
+      </item>
     
   </channel>
 </rss>
