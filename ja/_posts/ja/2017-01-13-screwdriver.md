@@ -4,11 +4,11 @@ layout: post title: Yahoo's Screwdriver.cd released! Now available with bilingua
 
 * * *
 
-Yahoo's open-source project [Screwdriver](http://screwdriver.cd/), a Continuous Delivery Build System for Dynamic Infrastructure, was just [released](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous) with all product [docs available in English and Japanese](http://docs.screwdriver.cd).
+Yahoo のオープン ソース プロジェクト [のドライバー](http://screwdriver.cd/)、動的インフラストラクチャの継続的な配信を構築システムは、ちょうど [リリース](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous) を [英語と日本語で使用可能なドキュメント](http://docs.screwdriver.cd) のすべての製品でした。
 
-Developers can benefit from Continuous Delivery, adapting to users’ needs quicker, while reducing the inherent friction associated with releasing software changes. Improving product quality and engineering agility throuhout the whole development cycle from commit to production, Yahoo greatly boosted the ability to deliver products, providing nothing less but full automation.
+開発者は、継続的な配信、迅速に、ソフトウェアの変更をリリースに関連付けられている固有の摩擦を軽減しながらユーザーのニーズへの適応から寄与できます。 製品の品質向上と工学全体の開発サイクル生産にコミットから敏捷性 throuhout、Yahoo は大幅提供も完全自動化ですが少ない製品を提供する能力をブーストしました。
 
-This community-driven tool will simplify deployment pipelines, optimize for trunk development, and make rolling back easier. Screwdriver handles over 25,000+ builds per day and 12,000+ daily git commits as a single shared entrypoint for Yahoo. It supports multiple languages and handles both virtual machine and container-based builds and deployment.
+このコミュニティ主導型のツール配置パイプラインを簡素化、トランクの開発、最適化、戻って容易に圧延します。 1 日あたり 12,000 + 毎日 git は Yahoo の単一共有エントリ ポイントとしてコミット ドライバー ハンドル 25,000 以上を構築します。 複数言語をサポートし、仮想マシンおよびコンテナ ベースのビルドと配置の両方を処理します。
 
 For more details read the official announcement within the [blog written by Yahoo's Sr. Director James Collins Principal Engineer St. John Johnson](https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous).
 
