@@ -1,9 +1,9 @@
 --- "\n"
 ---
 
-1
+Yahoo's open-source project <a href="http://screwdriver.cd/">Screwdriver</a>, a Continuous Delivery Build System for Dynamic Infrastructure, was just <a href="https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous">released</a> with all product <a href="http://docs.screwdriver.cd">docs available in English and Japanese</a>.
 
-2
+Developers can benefit from Continuous Delivery, adapting to users’ needs quicker, while reducing the inherent friction associated with releasing software changes.  Improving product quality and engineering agility throuhout the whole development cycle from commit to production, Yahoo greatly boosted the ability to deliver products, providing nothing less but full automation.
 
 This community-driven tool will simplify deployment pipelines, optimize for trunk development, and make rolling back easier. Screwdriver handles over 25,000+ builds per day and 12,000+ daily git commits as a single shared entrypoint for Yahoo. It supports multiple languages and handles both virtual machine and container-based builds and deployment. 
 
@@ -19,6 +19,6 @@ Thanks to a supportive community and its collaborative translation integrated wi
 
 ![Screwdriver Locki Screenshot](/img/screwdriver_locki.png)
 
-More information about the Screwdriver project can be found on the <a href="http://screwdriver.cd">official website</a>, within their <a href="https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous">newest blog post</a>, or under the <a href="http://sdtimes.com/yahoo-open-sources-continuous-delivery-tool-screwdriver/">SD Times news</a>. 
+aa
 
 > Do not forget to chek out the <a href="http://docs.screwdriver.cd">bilingual docs in English and Japanese</a> and <a href="https://locki.io">integrate Locki for your (open-source) projects</a>.
