@@ -1,7 +1,7 @@
 --- "\n"
 ---
 
-Yahoo's open-source project <a href="http://screwdriver.cd/">Screwdriver</a>, a Continuous Delivery Build System for Dynamic Infrastructure, was just <a href="https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous">released</a> with all product <a href="http://docs.screwdriver.cd">docs available in English and Japanese</a>.
+ヤフーーーがOSSで最高！！！！！
 
 Developers can benefit from Continuous Delivery, adapting to users’ needs quicker, while reducing the inherent friction associated with releasing software changes.  Improving product quality and engineering agility throuhout the whole development cycle from commit to production, Yahoo greatly boosted the ability to deliver products, providing nothing less but full automation.
 
