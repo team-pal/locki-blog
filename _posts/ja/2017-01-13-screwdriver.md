@@ -1,7 +1,7 @@
 --- "\n"
 ---
 
-Yahoo's open-source project <a href="http://screwdriver.cd/">Screwdriver</a>, a Continuous Delivery Build System for Dynamic Infrastructure, was just <a href="https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous">released</a> with all product <a href="http://docs.screwdriver.cd">docs available in English and Japanese</a>.
+1
 
 2
 
