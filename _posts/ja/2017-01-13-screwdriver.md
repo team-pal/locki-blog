@@ -3,7 +3,7 @@
 
 Yahoo's open-source project <a href="http://screwdriver.cd/">Screwdriver</a>, a Continuous Delivery Build System for Dynamic Infrastructure, was just <a href="https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous">released</a> with all product <a href="http://docs.screwdriver.cd">docs available in English and Japanese</a>.
 
-あああああっ
+いいいいいっ
 
 This community-driven tool will simplify deployment pipelines, optimize for trunk development, and make rolling back easier. Screwdriver handles over 25,000+ builds per day and 12,000+ daily git commits as a single shared entrypoint for Yahoo. It supports multiple languages and handles both virtual machine and container-based builds and deployment. 
 
