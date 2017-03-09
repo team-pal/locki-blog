@@ -7,7 +7,7 @@ Yahoo's open-source project <a href="http://screwdriver.cd/">Screwdriver</a>, a 
 
 うううっ
 
-For more details read the official announcement within the <a href="https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous">blog written by Yahoo's Sr. Director James Collins Principal Engineer St. John Johnson</a>.
+さささっち
 
 ![Screwdriver UI](/img/screwdriver.png)
 
