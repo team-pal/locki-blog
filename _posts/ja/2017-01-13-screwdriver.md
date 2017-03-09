@@ -5,7 +5,7 @@ Yahoo's open-source project <a href="http://screwdriver.cd/">Screwdriver</a>, a 
 
 Developers can benefit from Continuous Delivery, adapting to users’ needs quicker, while reducing the inherent friction associated with releasing software changes.  Improving product quality and engineering agility throuhout the whole development cycle from commit to production, Yahoo greatly boosted the ability to deliver products, providing nothing less but full automation.
 
-This community-driven tool will simplify deployment pipelines, optimize for trunk development, and make rolling back easier. Screwdriver handles over 25,000+ builds per day and 12,000+ daily git commits as a single shared entrypoint for Yahoo. It supports multiple languages and handles both virtual machine and container-based builds and deployment. 
+way
 
 For more details read the official announcement within the <a href="https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous">blog written by Yahoo's Sr. Director James Collins Principal Engineer St. John Johnson</a>.
 
