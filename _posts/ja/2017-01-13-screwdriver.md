@@ -3,7 +3,7 @@
 
 yahooooo!!!
 
-Developers can benefit from Continuous Delivery, adapting to users’ needs quicker, while reducing the inherent friction associated with releasing software changes.  Improving product quality and engineering agility throuhout the whole development cycle from commit to production, Yahoo greatly boosted the ability to deliver products, providing nothing less but full automation.
+うおー！
 
 way
 
