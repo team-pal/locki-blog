@@ -15,7 +15,7 @@ For more details read the official announcement within the <a href="https://yaho
 
  1ばんんんんんんんんんｎ
 
-### We wish Screwdriver.cd continuous success, with continuous and additional language support!
+### 2ばんんんんんんんんんｎ
 
 ![Screwdriver Locki Screenshot](/img/screwdriver_locki.png)
 
