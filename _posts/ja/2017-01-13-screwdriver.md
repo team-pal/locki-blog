@@ -13,7 +13,7 @@ For more details read the official announcement within the <a href="https://yaho
 
 ぴゃあああ
 
-Thanks to a supportive community and its collaborative translation integrated with Locki, Screwdriver docs are now available to developers in Japanese as well. We have worked with Screwdriver's local team in Tokyo on making the latest Continuous Delivery solutions available to Japanese developers in their native language, instantly.
+ 1ばんんんんんんんんんｎ
 
 ### We wish Screwdriver.cd continuous success, with continuous and additional language support!
 
