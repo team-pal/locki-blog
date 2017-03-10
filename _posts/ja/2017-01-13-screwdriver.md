@@ -13,7 +13,7 @@ For more details read the official announcement within the [blog written by Yaho
 
 While Yahoo has been filling the headlines with drastic strategic decisions lately, we are very proud to support Yahoo's open-source project and take the collaborative results to new places in the world.
 
-Thanks to a supportive community and its collaborative translation integrated with Locki, Screwdriver docs are now available to developers in Japanese as well. We have worked with Screwdriver's local team in Tokyo on making the latest Continuous Delivery solutions available to Japanese developers in their native language, instantly.
+うううう
 
 ### We wish Screwdriver.cd continuous success, with continuous and additional language support!
 
